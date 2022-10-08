@@ -9,7 +9,8 @@ Vulnerable Parameter: username
 Steps to Reproduce the Issue: POC: https://localhost/index.php?mod=buddy&action=create&id=925872
 
 Screenshot: POC 1
-
+![alt text](https://github.com/sinemsahn/POC/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-10-08%20145652.png)
+![alt text](https://github.com/sinemsahn/POC/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-10-08%20145704.png)
 
 
 Impact
